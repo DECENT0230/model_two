@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 
 # Load the trained model and scaler
-model = joblib.load('C:/Users/222528192/Desktop/model/best_model.joblib')
+model = joblib.load('model/best_model.joblib')
 scaler = joblib.load('model/scaler.joblib')
 
 # Streamlit UI
