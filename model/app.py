@@ -65,5 +65,5 @@ st.markdown("""
 - **Model**: XGBoost Regressor  
 - **Performance**: R² = 0.573, MAE ≈ $226,510  
 - **Key Features**: Distance to CBD, Rooms, Bedrooms, Bathrooms, Car spaces  
-- **Note**: Accuracy improves with more features (e.g., land size, suburb).
+.
 """)
