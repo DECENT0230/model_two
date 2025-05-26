@@ -64,6 +64,5 @@ st.markdown("""
 ### 📊 Model Info
 - **Model**: XGBoost Regressor  
 - **Performance**: R² = 0.573, MAE ≈ $226,510  
-- **Key Features**: Distance to CBD, Rooms, Bedrooms, Bathrooms, Car spaces  
-.
+- **Key Features**: Distance to CBD, Rooms, Bedrooms, Bathrooms, Car spaces 
 """)
